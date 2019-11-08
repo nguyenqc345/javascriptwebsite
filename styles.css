@@ -1,0 +1,23 @@
+p {
+    color: blueviolet;
+    background: black;
+    font-size: 3.0rem;
+}
+
+h1 {
+    color: burlywood;
+    background: green;
+}
+
+.special{
+    color: black;
+    background: blueviolet;
+}
+
+.highlighted{
+    border:10px solid yellow;
+}
+
+.main{
+    border: 20px dashed black;
+}
